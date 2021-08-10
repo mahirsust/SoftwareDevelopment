@@ -1,0 +1,21 @@
+console.log(12);
+console.log(12.01);
+console.log(12.1213);
+console.log(12.123456789101213);
+console.log(12.12345678910111213);
+console.log(123456789101112131415);
+console.log(Infinity);
+console.log(21);
+console.log(-12);
+console.log(-Infinity);
+var myNumber=21;
+console.log(myNumber);
+var mathlog=Math.log2(256);
+console.log(mathlog);
+console.log(Math.round(21.4847938394723483947));
+var random=Math.random();
+console.log(random);
+var number=Math.pow(2, 1000);
+mynumber=Math.log2(number)
+//number=Math.log1p(number);
+console.log(number);
