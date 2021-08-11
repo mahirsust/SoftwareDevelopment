@@ -9,4 +9,4 @@ var sum = function(){
 }
 var myFunction=sum();
 console.dir(myFunction);
-})()
+})();
